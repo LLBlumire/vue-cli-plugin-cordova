@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m0dch3n/vue-cli-plugin-cordova.git"
+    "url": "git+https://github.com/LLBlumire/vue-cli-plugin-cordova.git"
   },
   "keywords": [
     "vue",
     "cordova",
     "vue-cli"
   ],
-  "author": "m0dch3n",
+  "author": "llblumire",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/m0dch3n/vue-cli-plugin-cordova/issues"
+    "url": "https://github.com/LLBlumire/vue-cli-plugin-cordova/issues"
   },
-  "homepage": "https://github.com/m0dch3n/vue-cli-plugin-cordova#readme",
+  "homepage": "https://github.com/LLBlumire/vue-cli-plugin-cordova#readme",
   "dependencies": {
     "@vue/cli-shared-utils": "^3.4.0",
     "address": "^1.0.3",
