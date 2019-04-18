@@ -7,6 +7,8 @@ const defaults = require('./defaults')
 const defaultServe = require('./default-serve')
 
 const defaultModes = {
+  'cordova-serve-electron': 'development',
+  'cordova-build-electron': 'production',
   'cordova-serve-android': 'development',
   'cordova-build-android': 'production',
   'cordova-serve-ios': 'development',
@@ -260,6 +262,14 @@ module.exports = (api, options) => {
 
     })
   }
+
+  api.registerCommand('cordova-serve-electron', async args => {
+    return await runServe('electron', args)
+  })
+
+  api.registerCommand('cordova-build-electron', async args => {
+    return await runBuild('electron', args)
+  })
 
   api.registerCommand('cordova-serve-android', async args => {
     return await runServe('android', args)
