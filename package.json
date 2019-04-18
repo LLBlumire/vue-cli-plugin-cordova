@@ -1,6 +1,6 @@
 {
-  "name": "@llblumire/vue-cli-plugin-cordova",
-  "version": "2.1.5",
+  "name": "vue-cli-plugin-cordova",
+  "version": "2.1.4",
   "description": "vue-cli 3.x plugin for Apache Cordova",
   "main": "index.js",
   "scripts": {
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LLBlumire/vue-cli-plugin-cordova.git"
+    "url": "git+https://github.com/m0dch3n/vue-cli-plugin-cordova.git"
   },
   "keywords": [
     "vue",
     "cordova",
     "vue-cli"
   ],
-  "author": "llblumire",
+  "author": "m0dch3n",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LLBlumire/vue-cli-plugin-cordova/issues"
+    "url": "https://github.com/m0dch3n/vue-cli-plugin-cordova/issues"
   },
-  "homepage": "https://github.com/LLBlumire/vue-cli-plugin-cordova#readme",
+  "homepage": "https://github.com/m0dch3n/vue-cli-plugin-cordova#readme",
   "dependencies": {
     "@vue/cli-shared-utils": "^3.4.0",
     "address": "^1.0.3",

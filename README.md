@@ -78,10 +78,7 @@ MIT
 ## Credits
 
 Credits go to
-* @m0dch3n https://github.com/m0dch3n/vue-cli-plugin-cordova
 * @dekimasoon https://github.com/dekimasoon/vue-cli-plugin-cordova
 * @quasarframework https://github.com/quasarframework/quasar-cli
 
 Because my approach for this plugin, was inspired by theirs!
-
-THIS PLUGIN IS AN EXTENSION OF m0dch3n's PLUGIN. IT ADDS SUPPORT FOR ELECTRON
