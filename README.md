@@ -7,6 +7,8 @@ Integrate Cordova into Vue Cli App
 ```sh
 $ npm install -g cordova # If cordova is not already installed
 $ vue add cordova
+$ npm run cordova-serve-electron # Development Electron
+$ npm run cordova-build-electron # Build Electron
 $ npm run cordova-serve-android # Development Android
 $ npm run cordova-build-android # Build Android
 $ npm run cordova-serve-ios # Development IOS

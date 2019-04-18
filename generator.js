@@ -20,6 +20,8 @@ module.exports = (api, options) => {
 
   api.extendPackage({
     scripts: {
+      'cordova-serve-electron': 'vue-cli-service cordova-serve-electron',
+      'cordova-build-electron': 'vue-cli-service cordova-build-electron',
       'cordova-serve-android': 'vue-cli-service cordova-serve-android',
       'cordova-build-android': 'vue-cli-service cordova-build-android',
       'cordova-serve-ios': 'vue-cli-service cordova-serve-ios',

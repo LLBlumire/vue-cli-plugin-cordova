@@ -2,6 +2,6 @@ module.exports = {
   cordovaPath: 'src-cordova',
   id: 'com.vue.example.app',
   appName: 'VueExampleAppName',
-  platforms: ['android', 'ios', 'browser', 'osx'],
+  platforms: ['android', 'ios', 'browser', 'osx', 'cordova'],
   routerMode: 'hash'
 }
