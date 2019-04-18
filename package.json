@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli-plugin-cordova",
+  "name": "@llblumire/vue-cli-plugin-cordova",
   "version": "2.1.4",
   "description": "vue-cli 3.x plugin for Apache Cordova",
   "main": "index.js",
